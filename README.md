@@ -1,7 +1,8 @@
 # Azure DevOps HOL
 
 This is the source code for Azure DevOps HOL by taking an example of a documentation project.
-
+박동철 내용을 수정 했습니다.
+참고하세요.
 The documentation can be hosted on any HTML repositories including your GitHub Pages, from the *gh-pages* branch.
 
 ## Running locally
